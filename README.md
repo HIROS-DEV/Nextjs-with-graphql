@@ -1,34 +1,41 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+<h1>NextJS GraphQL Crash Course</h1>
 
-## Getting Started
+<h4>CreatedAt:17th Dec 2021</h4> 
 
-First, run the development server:
+## Detail of the project
 
-```bash
-npm run dev
-# or
-yarn dev
-```
+This project is NEXT.js GraphQL Crash Course in Youtube.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Next.js Crash Course: James Perkins
+https://www.youtube.com/watch?v=tE3WOGIJ1mI
 
-You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
+## Screen Shot
+<img src="./images/desktop.png"/>
 
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.js`.
+## Purpose of the project
 
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
+Get the knowledge of Next.js Fundamentals and how to connect with GraphQL
 
-## Learn More
+## Demo
 
-To learn more about Next.js, take a look at the following resources:
+https://nextjs-with-graphql-nkl2qqn86-hiros-dev.vercel.app/
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## What did I learn from this project?
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+<p>Next.js Fundamentals</p>
+<p>How to use Next.js with Chakra UI</p>
+<p>How to use Next.js with GraphQL</p>
 
-## Deploy on Vercel
+## Impressions
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+It is my first Next.js project with GraphQL.
+(It is my first time to use Chakra UI, also)
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+These days, I am learning GraphQL and I noticed GraphQL is terrific.
+I would like to know more about GraphQL, so I took the Course.
+
+Against all expectations, this course does not teach about GraphQL.
+But, anyway, I am generally satisfied with the content.
+(Of course, I would like to learn more about GraphQL though)
+
+Thank you for reading. And, happy coding!!!
